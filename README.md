@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Endah FN
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning Javascript
-- Have a good day, Friends!✨
+- 👋 Assalamu'alaikum, I’m Endah FN
+- 👀 I’m interested in Front-End Developer and UI/UX Design
+- 🌱 I’m currently learning Javascript, ReactJS, TailwindCSS and UI/UX Design
+- Have a good day, Friends!
+- Barakallahu fiikum✨
 
 
 <!---
