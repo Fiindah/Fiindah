@@ -1,6 +1,6 @@
 - 👋 Assalamu'alaikum, I’m Endah FN
 - 👀 I’m interested in Web & Mobile Developer
-- 🌱 I’m currently learning Javascript, Flutter and UI/UX Design
+- 🌱 I’m currently learning Javascript, ReactJS and Flutter.
 - Have a good day, Friends!
 - Barakallahu fiikum✨
 
