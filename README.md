@@ -1,7 +1,7 @@
 ## Hi, I'm Endah 👋
 
- About
-I enjoy continuous learning, taking on new challenges, and building practical applications with clear purpose. Open to collaboration on meaningful projects.
+## About
+I enjoy continuous learning, taking on new challenges, and building meaningful applications. I am open to collaborating on projects that focus on practical and impactful solutions.
 
 ### Tech Stack
 - JavaScript (ES6+)
