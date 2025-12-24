@@ -1,8 +1,17 @@
-- 👋 Assalamu'alaikum, I’m Endah FN
-- 👀 I’m interested in Web & Mobile Developer
-- 🌱 I’m currently learning Javascript, ReactJS and Flutter.
-- Have a good day, Friends!
-- Barakallahu fiikum✨
+## Hi, I'm Endah 👋
+
+ About
+I enjoy continuous learning, taking on new challenges, and building practical applications with clear purpose. Open to collaboration on meaningful projects.
+
+### Tech Stack
+- JavaScript (ES6+)
+- React
+- Flutter
+- HTML & Tailwind CSS
+- REST API
+
+📫 GitHub: https://github.com/fiindah
+
 
 
 <!---
